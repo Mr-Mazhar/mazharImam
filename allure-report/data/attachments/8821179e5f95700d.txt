@@ -1,0 +1,15 @@
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:46 test_OrangeHRM_Login_002 is started
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:48 Opening the browser
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:53 Entering Username-->Admin
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:56 Entering Password-->admin123
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:59 Clicking on login button
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:61 Verifying the login status
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:63 test_OrangeHRM_Login_002 is passed
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:65 Taking the screenshot
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:67 Clicking on Menu button
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:69 Clicking on logout button
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:77 Closing the browser
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:79 test_OrangeHRM_Login_002 is completed
+WARNING  urllib3.connectionpool:connectionpool.py:870 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF5E25B350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4e39f6a492ad8237519a069860bae9a9
+WARNING  urllib3.connectionpool:connectionpool.py:870 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF5E25B8C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4e39f6a492ad8237519a069860bae9a9
+WARNING  urllib3.connectionpool:connectionpool.py:870 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF5E25B9B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4e39f6a492ad8237519a069860bae9a9

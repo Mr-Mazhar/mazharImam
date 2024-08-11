@@ -1,0 +1,8 @@
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:46 test_OrangeHRM_Login_002 is started
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:48 Opening the browser
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:53 Entering Username-->Admin
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:56 Entering Password-->admin123
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:59 Clicking on login button
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:61 Verifying the login status
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:73 test_OrangeHRM_Login_002 is failed
+INFO     Test_OrangeHRM_Login:test_OrangeHRM_Login.py:74 Taking for screenshot

@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4783","test_OrangeHRM_url_001","testCases","Sun Aug 11 20:13:36 IST 2024","passed","Sun Aug 11 20:13:41 IST 2024","Test_OrangeHRM_Login","test_OrangeHRM_Login","",""
+"","11132","test_OrangeHRM_Login_params_003[getDataForLogin3]","testCases","Sun Aug 11 20:18:02 IST 2024","passed","Sun Aug 11 20:18:13 IST 2024","Test_OrangeHRM_Login_params","test_OrangeHRM_Login_params","",""
+"","12244","test_OrangeHRM_Login_params_003[getDataForLogin1]","testCases","Sun Aug 11 20:16:07 IST 2024","passed","Sun Aug 11 20:16:19 IST 2024","Test_OrangeHRM_Login_params","test_OrangeHRM_Login_params","",""
+"","11703","test_OrangeHRM_Login_params_003[getDataForLogin2]","testCases","Sun Aug 11 20:17:10 IST 2024","passed","Sun Aug 11 20:17:22 IST 2024","Test_OrangeHRM_Login_params","test_OrangeHRM_Login_params","",""
+"","12265","test_OrangeHRM_Login_params_003[getDataForLogin0]","testCases","Sun Aug 11 20:15:15 IST 2024","passed","Sun Aug 11 20:15:28 IST 2024","Test_OrangeHRM_Login_params","test_OrangeHRM_Login_params","",""
+"","15149","test_OrangeHRM_Login_002","testCases","Sun Aug 11 20:14:22 IST 2024","passed","Sun Aug 11 20:14:37 IST 2024","Test_OrangeHRM_Login","test_OrangeHRM_Login","",""
